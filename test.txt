@@ -3,4 +3,4 @@ Test 2
 Test 3
 Test 4 - Private
 Test 5 - Private
-Tes 6 - Prvate
+Test 6 - Private
